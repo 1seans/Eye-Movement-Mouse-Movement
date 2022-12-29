@@ -1,1 +1,2 @@
 # Eye-Movement-Mouse-Movement
+a JavaScript function that moves two elements on a web page when the mouse is moved. It does this by updating the elements' left, top, and transform CSS properties based on the mouse position. The elements are identified by the ball class name and are stored in the balls array. The function is assigned to the onmousemove event of the document object, which means it will be executed every time the mouse is moved within the document. The effect of the function is to cause the elements to follow the mouse cursor as it moves around the page.
